@@ -1,5 +1,7 @@
 # NewAppDetection - Fake News Detection Application
 
+Live Link:https://melodic-stroopwafel-9e6e75.netlify.app
+
 This project is a Fake News Detection web application that uses Machine Learning (ML) models to classify news articles as either *REAL* or *FAKE*. The application utilizes a Logistic Regression classifier and a TF-IDF vectorizer for text processing.
 
 ## Features
